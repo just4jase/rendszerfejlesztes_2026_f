@@ -9,11 +9,11 @@ A csoportban lévő személyek:
 
 (két további csapattag ismeretlen)
 
-### A téma és a tervezés (wip)
+## A téma és a tervezés
 
 A téma egy *kisállat örökbefogadásáról* szóló weboldal lesz. A terv, hogy ez a weboldal **tiszta és áttekinthető** legyen, míg **egyszerű és megérthető funkciót** kínál a felhasználó számára.
 
-## A fejlesztők és feladataik (wip)
+## A fejlesztők és feladataik
 
 A fejlesztők feladatai elkülönbözhetnek, de minden fejlesztő a projektmunkában próbál a **kommunikáció és az összhangoltság** fenntartásához, illetve a feladat **egyszerűsítés és közös megbeszélés** odafigyeléséhez.
 
